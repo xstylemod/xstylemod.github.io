@@ -1,0 +1,62 @@
+<package>
+	<id>com.zeushalim.gokuchargingmod</id>
+	<name>Goku Charging MOD</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>11.4</maxiOS>
+            <miniOS>11.0</miniOS>
+			<otherVersions>unconfirmed</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+    
+    <changelog>
+        <change>Initial Release!</change>
+    </changelog>
+    
+    <screenshots>
+        <screenshot>
+            <description>animation</description>
+            <image>animation.mov</image>
+        </screenshot>
+        <screenshot>
+            <description>Widget Settings</description>
+            <image>widgetsettings.png</image>
+        </screenshot>
+        <screenshot>
+            <description>XenHtml Preview</description>
+            <image>xenhtmlpreview.png</image>
+        </screenshot>
+    </screenshots>
+    
+	<descriptionlist>
+		<description>Tweak description here
+        </description>
+        <description><![CDATA[Status Bar:<br/>
+        <ul>
+            <li>You can list</li><br/>
+            <li>All your features too!</li><br/>
+        </ul>
+        ]]></description>
+        <description><![CDATA[Can even have multiple sections:<br/>
+        <ul>
+            <li>listing more features!</li><br/>
+            <li>crazy!</li><br/>
+
+        </ul>
+        ]]></description>
+
+	</descriptionlist>
+
+	<links>
+        <link>
+            <name>Website!</name>
+            <url>https://www.idevicehacked.com</url>
+            <iconclass>fa fa-desktop</iconclass>
+        </link>
+    </links>
+</package>
