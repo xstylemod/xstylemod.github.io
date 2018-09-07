@@ -1,0 +1,32 @@
+<package>
+    <id>com.c1d3r.LogoSwitcherX</id>
+    <name>LogoSwitcherX</name>
+    <version>1.0-2</version>
+    <compatibility>
+        <firmware>
+            <maxiOS>11.4</maxiOS>
+            <miniOS>11.0</miniOS>
+            <otherVersions>unconfirmed</otherVersions>
+            <!--
+             for otherVersions, you can put either unsupported or unconfirmed
+             -->
+        </firmware>
+    </compatibility>
+    <dependencies></dependencies>
+    
+    <changelog>
+        <change>Initial Release!</change>
+    </changelog>
+    
+    <screenshots>
+        <screenshot>
+            <description>App Switcher</description>
+            <image>preview.png</image>
+        </screenshot>
+        <screenshot>
+            <description>LogoSwitcherX Settings</description>
+            <image>settings.png</image>
+        </screenshot>
+    </screenshots>
+</package>
+

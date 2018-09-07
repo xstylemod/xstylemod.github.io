@@ -1,0 +1,31 @@
+<package>
+	<id>com.c1d3r.LogoCCX</id>
+	<name>LogoCCX</name>
+	<version>1.0-3</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>11.4</maxiOS>
+            <miniOS>11.0</miniOS>
+			<otherVersions>unconfirmed</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+    
+    <changelog>
+        <change>Initial Release!</change>
+    </changelog>
+    
+    <screenshots>
+        <screenshot>
+            <description>Control Center</description>
+            <image>preview.png</image>
+        </screenshot>
+        <screenshot>
+            <description>LogoCCX Settings</description>
+            <image>settings.png</image>
+        </screenshot>
+    </screenshots>
+</package>
