@@ -28,4 +28,25 @@
             <image>settings.png</image>
         </screenshot>
     </screenshots>
+
+        <descriptionlist>
+		<description>Tweak description here
+        </description>
+        <description><![CDATA[Control Center Logo:<br/>
+        <ul>
+            <li>You can select any image to add it as 
+                logo at the botton of the Control Center.</li><br/>
+            <li>Image most be .png with transparency background.</li><br/>
+        </ul>
+        ]]></description>
+
+	</descriptionlist>
+
+	<links>
+        <link>
+            <name>Website!</name>
+            <url>https://xstylemod.github.io/</url>
+            <iconclass>fa fa-desktop</iconclass>
+        </link>
+    </links>
 </package>
