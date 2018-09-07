@@ -28,5 +28,27 @@
             <image>settings.PNG</image>
         </screenshot>
     </screenshots>
+
+
+        <descriptionlist>
+		<description>Tweak description here
+        </description>
+        <description><![CDATA[App Switcher Logo:<br/>
+        <ul>
+            <li>You can select any image to add it as 
+                logo at the botton of the App Switcher.</li><br/>
+            <li>Image most be .png with transparency background.</li><br/>
+        </ul>
+        ]]></description>
+
+	</descriptionlist>
+
+	<links>
+        <link>
+            <name>Website!</name>
+            <url>https://xstylemod.github.io/</url>
+            <iconclass>fa fa-desktop</iconclass>
+        </link>
+    </links>
 </package>
 

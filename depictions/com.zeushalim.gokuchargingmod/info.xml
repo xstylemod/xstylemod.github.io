@@ -36,17 +36,12 @@
 	<descriptionlist>
 		<description>Tweak description here
         </description>
-        <description><![CDATA[Status Bar:<br/>
+        <description><![CDATA[XenHTML Widget:<br/>
         <ul>
-            <li>You can list</li><br/>
-            <li>All your features too!</li><br/>
-        </ul>
-        ]]></description>
-        <description><![CDATA[Can even have multiple sections:<br/>
-        <ul>
-            <li>listing more features!</li><br/>
-            <li>crazy!</li><br/>
-
+            <li>You can select the widget as animation
+                or as an image on ur LockScreen.</li><br/>
+            <li>You can resize the image inside widget
+                configuration.</li><br/>
         </ul>
         ]]></description>
 
@@ -55,7 +50,7 @@
 	<links>
         <link>
             <name>Website!</name>
-            <url>https://www.idevicehacked.com</url>
+            <url>https://xstylemod.github.io/</url>
             <iconclass>fa fa-desktop</iconclass>
         </link>
     </links>
