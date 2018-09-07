@@ -54,16 +54,4 @@
             <iconclass>fa fa-desktop</iconclass>
         </link>
     </links>
-<html>
-<body>
-
-<h4>An Unordered List:</h4>
-<ul>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
-</ul>
-
-</body>
-</html>
 </package>
