@@ -49,3 +49,16 @@ Author: ZeusiPx
 Section: Widget
 Depiction: https://xstylemod.github.io/depictions/?p=com.chilaxan.clocknday
 
+Package: com.yourcompany.hidebat
+Name: hidebat
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: chilaxan
+Author: chilaxan
+Section: Tweaks
+Version: 0.0.1-6+debug
+Installed-Size: 117
+Depiction: https://xstylemod.github.io/depictions/?p=com.yourcompany.hidebat
+
+
