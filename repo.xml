@@ -2,17 +2,17 @@
     <footerlinks>
         
         <link>
-            <name>@ZeusIPX ~Design</name>
+            <name><h6>@ZeusIPX ~Design</h6></name>
             <url>https://twitter.com/ZeusiPx</url>
             <iconclass>fa fa-twitter</iconclass>
         </link>
         <link>
-            <h6><name>@Chilaxan ~Development</name></h6>
+            <name><h6>@Chilaxan ~Development</h6></name>
             <url>https://twitter.com/lucifers_circle</url>
             <iconclass>fa fa-twitter</iconclass>
         </link>
         <link>
-            <name>@Lucifers_Circle ~Development</name>
+            <name><h6>@Lucifers_Circle ~Development</h6></name>
             <url>https://twitter.com/lucifers_circle</url>
             <iconclass>fa fa-twitter</iconclass>
         </link>
