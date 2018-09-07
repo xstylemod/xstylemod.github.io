@@ -20,16 +20,16 @@
     
     <screenshots>
         <screenshot>
-            <description>animation</description>
+            <description>Battery Animation</description>
             <image>gokumod.gif</image>
-        </screenshot>
-        <screenshot>
-            <description>Widget Settings</description>
-            <image>widgetsettings.png</image>
         </screenshot>
         <screenshot>
             <description>XenHtml Preview</description>
             <image>xenhtmlpreview.png</image>
+        </screenshot>
+        <screenshot>
+            <description>Widget Settings</description>
+            <image>widgetsettings.png</image>
         </screenshot>
     </screenshots>
     
@@ -39,7 +39,7 @@
         <description><![CDATA[XenHTML Widget:<br/>
         <ul>
             <li>You can select the widget as animation
-                or as an image on ur LockScreen.</li><br/>
+                or as an image on your LockScreen.</li><br/>
             <li>You can resize the image inside widget
                 configuration.</li><br/>
         </ul>
