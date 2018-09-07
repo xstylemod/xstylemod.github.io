@@ -1,7 +1,7 @@
 <package>
-	<id>com.c1d3r.LogoCCX</id>
-	<name>LogoCCX</name>
-	<version>1.0-3</version>
+	<id>com.chilaxan.ring</id>
+	<name>Ring Charging Mod</name>
+	<version>0.0.1</version>
 	<compatibility>
 		<firmware>
 			<maxiOS>11.4</maxiOS>
@@ -20,11 +20,11 @@
     
     <screenshots>
         <screenshot>
-            <description>Control Center</description>
+            <description>XenHTML LockHTML</description>
             <image>preview.png</image>
         </screenshot>
         <screenshot>
-            <description>LogoCCX Settings</description>
+            <description>Widget Settings</description>
             <image>settings.png</image>
         </screenshot>
     </screenshots>
@@ -32,12 +32,10 @@
         <descriptionlist>
 		<description>Tweak description here
         </description>
-        <description><![CDATA[Control Center Logo:<br/>
+        <description><![CDATA[XenHTML LockHTML:<br/>
         <ul>
-            <li>You can select any image to add it as 
-                logo at the botton of the Control Center.</li><br/>
-            <li>Image most be .png with transparency background.</li><br/>
-        </ul>
+            <li>You can select the widget on XenHTML>
+                Lockscreen.</li><br/>
         ]]></description>
 
 	</descriptionlist>
