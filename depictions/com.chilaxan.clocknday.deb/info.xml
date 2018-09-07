@@ -1,0 +1,54 @@
+<package>
+    <id>com.chilaxan.clocknday</id>
+    <name>clocknday</name>
+    <version>0.0.1</version>
+    <compatibility>
+        <firmware>
+            <maxiOS>11.4</maxiOS>
+            <miniOS>11.0</miniOS>
+            <otherVersions>unconfirmed</otherVersions>
+            <!--
+             for otherVersions, you can put either unsupported or unconfirmed
+             -->
+        </firmware>
+    </compatibility>
+    <dependencies></dependencies>
+    
+    <changelog>
+        <change>Initial Release!</change>
+    </changelog>
+    
+    <screenshots>
+        <screenshot>
+            <description>XenHTML SBHTML Widget</description>
+            <image>preview.png</image>
+        </screenshot>
+        <screenshot>
+            <description>Widget Settings</description>
+            <image>settings.png</image>
+        </screenshot>
+    </screenshots>
+
+
+        <descriptionlist>
+		<description>Tweak description here
+        </description>
+        <description><![CDATA[App Switcher Logo:<br/>
+        <ul>
+            <li>You can select the widget on XenHTML>
+                homescreen.</li><br/>
+            <li> Inside Widget Settings you can change between 12h/24h.</li><br/>
+        </ul>
+        ]]></description>
+
+	</descriptionlist>
+
+	<links>
+        <link>
+            <name>Website!</name>
+            <url>https://xstylemod.github.io/</url>
+            <iconclass>fa fa-desktop</iconclass>
+        </link>
+    </links>
+</package>
+

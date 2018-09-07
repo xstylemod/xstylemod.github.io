@@ -38,3 +38,13 @@ author: ZeusiPX
 depiction: https://xstylemod.github.io/depictions/?p=com.zeushalim.gokuchargingmod
 name: Goku Charging MOD
 
+Package: com.chilaxan.clocknday
+Name: Clock and Day Widget
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: XenHTML SBHTML Widget!
+Maintainer: chilaxan
+Author: ZeusiPx
+Section: Widget
+
