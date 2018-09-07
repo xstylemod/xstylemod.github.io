@@ -1,7 +1,7 @@
 <package>
-	<id>com.zeushalim.gokuchargingmod</id>
-	<name>Goku Charging MOD</name>
-	<version>1.0</version>
+	<id>com. yourcompany.hidebat</id>
+	<name>Hide Bat</name>
+	<version>0.0.1-6+debug</version>
 	<compatibility>
 		<firmware>
 			<maxiOS>11.4</maxiOS>
@@ -18,30 +18,12 @@
         <change>Initial Release!</change>
     </changelog>
     
-    <screenshots>
-        <screenshot>
-            <description>Battery Animation</description>
-            <image>gokumod.gif</image>
-        </screenshot>
-        <screenshot>
-            <description>XenHtml Preview</description>
-            <image>xenhtmlpreview.png</image>
-        </screenshot>
-        <screenshot>
-            <description>Widget Settings</description>
-            <image>widgetsettings.png</image>
-        </screenshot>
-    </screenshots>
-    
 	<descriptionlist>
 		<description>Tweak description here
         </description>
-        <description><![CDATA[XenHTML Widget:<br/>
+        <description><![CDATA[Hide Bat<br/>
         <ul>
-            <li>You can select the widget as animation
-                or as an image on your LockScreen.</li><br/>
-            <li>You can resize the image inside widget
-                configuration.</li><br/>
+            <li>This will let you hide the battery popup when plugged to charge.</li><br/>
         </ul>
         ]]></description>
 
