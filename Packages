@@ -49,15 +49,15 @@ Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: chilaxan
 Depends: mobilesubstrate
-Filename: debs/com.chilaxan.ring.deb
-Size: 2624
-MD5sum: ca1e7332bb3dfdc3ad241692e75ea435
-SHA1: adf9faaf4e28048680d51f8df93c743c2a4569b4
-SHA256: 59e387750a59c794ae21be47e846a1da42d66890afb00715ac012c9ee2f2667e
-Section: XenHTML Lockhtml Widget
+Filename: debs/ring.deb
+Size: 1560
+MD5sum: 5c4c86a997b5454afec637d03c095d85
+SHA1: 9a92efe918bc574c6817f0fd1aae188889c3a7d5
+SHA256: ea790a37b64084399b4e131789a87f229668edfcbe3bde7d9b612f2dc57b9fc4
+Section: Widgets
 Description: An awesome MobileSubstrate tweak!
 Author: ZeusiPx
-Depiction: https://xstylemod.github.io/depictions/?p=com.com.chilaxan.ring
+Depiction: https://xstylemod.github.io/depictions/?p=com.chilaxan.ring
 Name: Rings Charging Mod
 
 Package: com.yourcompany.hidebat
@@ -66,11 +66,11 @@ Architecture: iphoneos-arm
 Maintainer: chilaxan
 Installed-Size: 117
 Depends: mobilesubstrate
-Filename: debs/com.yourcompany.hidebat.deb
-Size: 4772
-MD5sum: 2366a7bb6a652d635d06da188f0fb808
-SHA1: 9bb238e00a260973a4c4d9dc94eb0a362ccc9b46
-SHA256: 5b795135de39df1345f6a51b6af92e95cba0b5b95ccc766c7f69c5b9ae0a5dfa
+Filename: debs/hidebat.deb
+Size: 3344
+MD5sum: a88c38221dc8b97ca75564cfde7c9d7a
+SHA1: 5fe39e2da2112654f1f5916a3f6f373a06ca3495
+SHA256: a89b94173dbe287c8367c73d7a26b452eb6af8b158871d2ce199d49c52d8ca74
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: ZeusiPx
@@ -81,12 +81,11 @@ Package: com.yourepo.zeushalim.gokuchargingmod
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Chilaxan
-Depends: Xenhtml
 Filename: debs/Goku.deb
-Size: 10181168
-MD5sum: e1b19afd3b1366f8ef2e9be37a612942
-SHA1: 6ae769b1d4efe59f7f950376fec18c7a0cc91e4b
-SHA256: 3b10fe274f0b9c14c1b7e3588fc4813e55c5abde56adfea1fe4f74d156e4ff23
+Size: 10155744
+MD5sum: 6152257f446cbd5dd4053042eea76c51
+SHA1: b33fb567c4f6d42b2d713761eb24220637fbde2e
+SHA256: dfeda7a72872adc4bf3921f9a12934790b1a9348e2460e5c2de399cd7e9153f6
 Section: Widgets
 Description: Battery animation Xenhtml widget, you can resize the image by going to Settings/XenHtml/Lockscreen/LockHtml and click on Goku then configuration (Gear Icon). Set the size you want. and enjoy.
 Author: ZeusiPX
