@@ -50,14 +50,14 @@ Architecture: iphoneos-arm
 Maintainer: chilaxan
 Depends: mobilesubstrate
 Filename: debs/com.chilaxan.ring.deb
-Size: 1572
-MD5sum: f4170791b3645f0c0d74367eb4129a0a
-SHA1: a33b46396af61d787342f189e5d65bd12c1ebcc4
-SHA256: ccdf31b686920ec6926b7cf087775182ff9709a5634e9bfade9c729eb074dd17
+Size: 2624
+MD5sum: ca1e7332bb3dfdc3ad241692e75ea435
+SHA1: adf9faaf4e28048680d51f8df93c743c2a4569b4
+SHA256: 59e387750a59c794ae21be47e846a1da42d66890afb00715ac012c9ee2f2667e
 Section: XenHTML Lockhtml Widget
 Description: An awesome MobileSubstrate tweak!
 Author: ZeusiPx
-Depiction: Https://xstylemod.github.io/depictions/?p=com.chilaxan.ring
+Depiction: https://xstylemod.github.io/depictions/?p=com.com.chilaxan.ring
 Name: Rings Charging Mod
 
 Package: com.yourcompany.hidebat
@@ -67,10 +67,10 @@ Maintainer: chilaxan
 Installed-Size: 117
 Depends: mobilesubstrate
 Filename: debs/com.yourcompany.hidebat.deb
-Size: 4712
-MD5sum: 35ab6b645155cee47dc1735f1295b9a4
-SHA1: 06b22a859607de14431397af64ede46f0e5471d8
-SHA256: 0bd54362a5d96bee65d2cc76cfe28b1a29211216a97b5a641111a9d9d67cc2a6
+Size: 4772
+MD5sum: 2366a7bb6a652d635d06da188f0fb808
+SHA1: 9bb238e00a260973a4c4d9dc94eb0a362ccc9b46
+SHA256: 5b795135de39df1345f6a51b6af92e95cba0b5b95ccc766c7f69c5b9ae0a5dfa
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: ZeusiPx
