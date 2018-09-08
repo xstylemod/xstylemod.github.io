@@ -1,0 +1,95 @@
+Package: com.c1d3r.LogoCCX
+Version: 1.0-3
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/LogoCCX.deb
+Size: 202794
+MD5sum: eea2ad1c5e01a26d96238ed53bede35c
+SHA1: 6bcd63a5e580f988c3ae9b0f390f075ea2c845b1
+SHA256: b9356ac7983b37762f35b53265c50522f08cd84dcc42510fb7815cd074efdf7e
+Section: System
+Priority: optional
+Author: c1d3r
+Depiction: https://xstylemod.github.io/depictions/?p=com.c1d3r.LogoCCX
+Name: LogoCCX
+
+Package: com.c1d3r.LogoSwitcherX
+Version: 1.0-2
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/LogoSwitcherX.deb
+Size: 198140
+MD5sum: eeef2a775943086bb9660e50d908830f
+SHA1: ad2d254c5eb7dfe99a5554297c2e1eee6ca2c9fe
+SHA256: c2419b937c391998979edd83d576b4e971f559539af3cdb6417f2c956bc021ec
+Section: System
+Priority: optional
+Author: Will Smillie
+Depiction: https://xstylemod.github.io/depictions/?p=com.c1d3r.LogoSwitcherX
+Name: LogoSwitcherX
+
+Package: com.chilaxan.clocknday
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: chilaxan
+Depends: mobilesubstrate
+Filename: debs/com.chilaxan.clocknday.deb
+Size: 1426876
+MD5sum: 9c1502684003fff66c1e24f643b49323
+SHA1: be8aaaff98427ec72e8082c82cad6d0962b27939
+SHA256: c34dfb77927c35414156c31b93e2e6ca8e17cdfcc890385b920c7a1c7a501233
+Section: Widget
+Description: XenHTML SBHTML Widget!
+Author: ZeusiPx
+Depiction: https://xstylemod.github.io/depictions/?p=com.chilaxan.clocknday
+Name: Clock and Day Widget
+
+Package: com.chilaxan.ring
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: chilaxan
+Depends: mobilesubstrate
+Filename: debs/com.chilaxan.ring.deb
+Size: 1572
+MD5sum: f4170791b3645f0c0d74367eb4129a0a
+SHA1: a33b46396af61d787342f189e5d65bd12c1ebcc4
+SHA256: ccdf31b686920ec6926b7cf087775182ff9709a5634e9bfade9c729eb074dd17
+Section: XenHTML Lockhtml Widget
+Description: An awesome MobileSubstrate tweak!
+Author: ZeusiPx
+Https: //xstylemod.github.io/depictions/?p=com.com.chilaxan.ring
+Name: Rings Charging Mod
+
+Package: com.yourcompany.hidebat
+Version: 0.0.0.2-6+debug
+Architecture: iphoneos-arm
+Maintainer: chilaxan
+Installed-Size: 117
+Depends: mobilesubstrate
+Filename: debs/com.yourcompany.hidebat.deb
+Size: 4712
+MD5sum: 35ab6b645155cee47dc1735f1295b9a4
+SHA1: 06b22a859607de14431397af64ede46f0e5471d8
+SHA256: 0bd54362a5d96bee65d2cc76cfe28b1a29211216a97b5a641111a9d9d67cc2a6
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: chilaxan
+Depiction: https://xstylemod.github.io/depictions/?p=com.yourcompany.hidebat
+Name: hidebat
+
+Package: com.yourepo.zeushalim.gokuchargingmod
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Chilaxan
+Depends: Xenhtml
+Filename: debs/Goku.deb
+Size: 10181168
+MD5sum: e1b19afd3b1366f8ef2e9be37a612942
+SHA1: 6ae769b1d4efe59f7f950376fec18c7a0cc91e4b
+SHA256: 3b10fe274f0b9c14c1b7e3588fc4813e55c5abde56adfea1fe4f74d156e4ff23
+Section: Widgets
+Description: Battery animation Xenhtml widget, you can resize the image by going to Settings/XenHtml/Lockscreen/LockHtml and click on Goku then configuration (Gear Icon). Set the size you want. and enjoy.
+Author: ZeusiPX
+Depiction: https://xstylemod.github.io/depictions/?p=com.zeushalim.gokuchargingmod
+Name: Goku Charging MOD
+
