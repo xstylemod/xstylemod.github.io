@@ -1,0 +1,10 @@
+Package: com.chilaxan.ring
+Name: Rings Charging Mod
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: chilaxan
+Author: ZeusiPx
+Section: XenHTML Lockhtml Widget
+https://xstylemod.github.io/depictions/?p=com.com.chilaxan.ring

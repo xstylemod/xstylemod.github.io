@@ -1,0 +1,15 @@
+Package: com.c1d3r.LogoCCX
+Name: LogoCCX
+Version: 1.0-3
+Description: 
+Section: System
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: 
+Replaces: 
+Priority: optional
+Architecture: iphoneos-arm
+Author: c1d3r
+Depiction: https://xstylemod.github.io/depictions/?p=com.c1d3r.LogoCCX
+Maintainer: 
+Icon: 
+
