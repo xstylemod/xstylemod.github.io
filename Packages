@@ -8,8 +8,8 @@ Filename: debs//LogoCCX.deb
 Size: 202794
 MD5sum: eea2ad1c5e01a26d96238ed53bede35c
 depiction: https://xstylemod.github.io/depictions/?p=com.c1d3r.LogoCCX
-author: c1d3r
 name: LogoCCX
+author: c1d3r
 
 Package: com.c1d3r.LogoSwitcherX
 Version: 1.0-2
@@ -21,8 +21,8 @@ Filename: debs//LogoSwitcherX.deb
 Size: 198140
 MD5sum: eeef2a775943086bb9660e50d908830f
 depiction: https://xstylemod.github.io/depictions/?p=com.c1d3r.LogoSwitcherX
-author: Will Smillie
 name: LogoSwitcherX
+author: Will Smillie
 
 Package: com.yourepo.zeushalim.gokuchargingmod
 Version: 1.0
@@ -30,10 +30,10 @@ Section: Widgets
 Maintainer: Chilaxan
 Architecture: iphoneos-arm
 Filename: debs//Goku.deb
-Size: 10181202
-MD5sum: e10f57c81378c6b33d0408709a8410db
+Size: 10181190
+MD5sum: 1bd21a5e77e119b25adbf7b9e5b8c831
 Description: Battery animation Xenhtml widget, you can resize the image by going to Settings/XenHtml/Lockscreen/LockHtml and click on Goku then configuration (Gear Icon). Set the size you want. and enjoy.
 depiction: https://xstylemod.github.io/depictions/?p=com.zeushalim.gokuchargingmod
-author: ZeusiPX
 name: Goku Charging MOD
+author: ZeusiPX
 
