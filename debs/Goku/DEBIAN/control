@@ -1,0 +1,14 @@
+Package: com.yourepo.zeushalim.gokuchargingmod
+Name: Goku Charging MOD
+Version: 1.0
+Architecture: iphoneos-arm
+Depiction: https://xstylemod.github.io/depictions/?p=com.zeushalim.gokuchargingmod
+Description: Battery animation Xenhtml widget, you can resize the image by going to Settings/XenHtml/Lockscreen/LockHtml and click on Goku then configuration (Gear Icon). Set the size you want. and enjoy.
+Author: ZeusiPX
+Section: Widgets
+Maintainer: Chilaxan
+
+
+
+
+

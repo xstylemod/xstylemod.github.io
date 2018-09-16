@@ -1,0 +1,1 @@
+﻿var Size = "150"; //Size of Image, give it a number. Put the top left corner of the image where you want the resized image's corner to bevar ChargingAnimation = "false"; //"true" or "false"var PreferGifIfNotCharging = "false"; //"true" or "false"

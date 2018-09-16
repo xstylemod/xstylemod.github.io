@@ -82,10 +82,10 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Chilaxan
 Filename: debs/Goku.deb
-Size: 10157988
-MD5sum: 4778013076da1bcca4e84ec6db5bc125
-SHA1: ffa6d684f73a9e3475d7121e9e461b16c6687c3c
-SHA256: 55d447a2af3aed3f7468bdcca31c4c92b5f3a65e2bba9b20417ca0e28bcccea5
+Size: 10157536
+MD5sum: aded06abb2af18e8627def03d511224f
+SHA1: f71a490ac4bdc8d678205721761823af7c55ea0e
+SHA256: 634156545f2f7551f2839b5542cc4b5a3dbb63bfbcd8d045e1a0a9977a34ead5
 Section: Widgets
 Description: Battery animation Xenhtml widget, you can resize the image by going to Settings/XenHtml/Lockscreen/LockHtml and click on Goku then configuration (Gear Icon). Set the size you want. and enjoy.
 Author: ZeusiPX
